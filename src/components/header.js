@@ -3,9 +3,9 @@ import React from 'react';
 const Header = () => {
   return (
     <div className="header-container">
-      <div className="header-div">Div 1</div>
-      <div className="header-div">Div 2</div>
-      <div className="header-div">Div 3</div>
+      <div className="header-div">Title</div>
+      <div className="header-div">dark mode/light mode</div>
+      <div className="header-div">Social Media Links will go here</div>
     </div>
   );
 };
